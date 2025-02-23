@@ -4,6 +4,7 @@
 104.16.134.27:2083#US
 104.25.254.4:2087#US
 104.17.128.1:2096#US
+104.17.172.137:443#US
 ashton.ns.cloudflare.com
 abdullah.ns.cloudflare.com
 bowen.ns.cloudflare.com
